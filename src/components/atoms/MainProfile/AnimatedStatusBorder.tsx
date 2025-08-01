@@ -2,7 +2,6 @@
 
 import {motion, useCycle} from "framer-motion";
 import {useEffect, ReactNode, FC} from "react";
-import clsx from "clsx";
 
 interface AnimatedStatusBorderProps {
     children: ReactNode;
