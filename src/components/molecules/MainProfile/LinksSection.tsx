@@ -1,7 +1,7 @@
 import React, {FC} from 'react'
-import SocialMediaIcon from "@/components/atoms/SocialMediaIcon";
 import {LuGithub, LuLinkedin, } from "react-icons/lu";
 import {MdOutlineEmail} from "react-icons/md";
+import SocialMediaIcon from "@/components/atoms/MainProfile/SocialMediaIcon";
 
 const LinksSection : FC = () => {
     return (

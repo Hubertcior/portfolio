@@ -17,7 +17,7 @@ const HeroHeading : React.FC = () => {
             <span className="block text-2xl">
                 {STATIC_CONTENT.role} <span className="text-gray-500">|</span>
                 <span style={{
-                    background: 'linear-gradient(180deg, white 55%, red 45%)',
+                    background: 'linear-gradient(180deg, white 60%, red 40%)',
                     WebkitBackgroundClip: 'text',
                     WebkitTextFillColor: 'transparent',
                     display: 'inline-block',

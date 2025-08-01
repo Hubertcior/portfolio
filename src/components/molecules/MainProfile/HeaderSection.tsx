@@ -1,8 +1,7 @@
 import React from 'react'
-import ProfileImage from "@/components/atoms/ProfileImage";
-import HeroHeading from "@/components/atoms/HeroHeading";
-import LinksSection from "@/components/molecules/LinksSection";
-
+import ProfileImage from "@/components/atoms/MainProfile/ProfileImage";
+import LinksSection from "@/components/molecules/MainProfile/LinksSection";
+import HeroHeading from "@/components/atoms/MainProfile/HeroHeading";
 
 const HeaderSection : React.FC = () => {
     return (
