@@ -22,7 +22,7 @@ const StatusDot : FC<StatusDotProps> = ({status}) => {
             )}
             />
             <span className="ml-2 text-sm">
-                {status === 'available' ? 'Open to work' : 'Busy'}
+                {status === 'available' ? 'Open to work' : 'Employed'}
             </span>
         </div>
     )
