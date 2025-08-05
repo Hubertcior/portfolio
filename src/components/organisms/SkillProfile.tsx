@@ -1,3 +1,5 @@
+'use client'
+
 import React from 'react'
 import SkillsHeading from "@/components/atoms/Skills/SkillsHeading";
 import SectionBackground from "@/components/atoms/MainProfile/SectionBackground";

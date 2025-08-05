@@ -1,3 +1,5 @@
+'use client'
+
 import React, {FC} from 'react'
 import SkillBadge from "@/components/atoms/Skills/SkillBadge";
 import { IconType } from 'react-icons'
