@@ -16,7 +16,7 @@ interface InfoBarItem{
 
 const infoBarItems: InfoBarItems[] = [{
     name : "Mobitouch",
-    description: "trainee",
+    description: "Trainee",
     startDate: "July 2025",
     endDate: "September 2025",
     imageSource: "/images/logos/mobitouch.svg",
